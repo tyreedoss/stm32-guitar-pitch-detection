@@ -12,7 +12,7 @@ Electric guitar pickups produce an AC signal whose frequency corresponds to the 
 
 The system is fully standalone and runs entirely on an **STM32 NUCLEO-F446RE**.
 
-![Demo](images/demo.jpg)
+![Demo](images/demo.gif)
 
 ---
 
