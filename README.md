@@ -32,7 +32,7 @@ The system is fully standalone and runs entirely on an **STM32 NUCLEO-F446RE**.
 
 The analog front-end prepares the raw guitar signal for accurate ADC sampling.
 
-![Circuit Diagram](images/circuit.jpeg)
+![Circuit Diagram](images/Schematic.png)
 *The circuit diagram of the analog front-end.*
 
 ### Signal Conditioning Stages
@@ -110,10 +110,10 @@ Detected frequencies are converted to **MIDI notes**, then reduced to **pitch cl
 
 UI logic includes software debouncing and display update suppression to prevent flicker.
 
-![UI](images/in-key.jpeg)
+![UI](images/in-key.jpg)
 *In-key example.*
 
-![UI](images/out-of-key.jpeg)
+![UI](images/out-of-key.jpg)
 *Out-of-key example.*
 
 ---
